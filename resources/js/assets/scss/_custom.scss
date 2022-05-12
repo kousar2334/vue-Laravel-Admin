@@ -1,0 +1,20 @@
+.image-round {
+    border-radius: 50%;
+}
+.table-image {
+    max-width: 50px;
+}
+.my-account-image {
+    width: 120px;
+    min-height: 120px;
+    border-radius: 50%;
+}
+.flash-message {
+    float: right;
+    right: 0px;
+    position: absolute;
+    z-index: 1000;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 50px;
+}

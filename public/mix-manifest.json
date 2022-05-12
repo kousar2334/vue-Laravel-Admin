@@ -1,0 +1,11 @@
+{
+    "/js/main.js": "/js/main.js",
+    "/js/mainLayout.js": "/js/mainLayout.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/colors.js": "/js/colors.js",
+    "/js/register.js": "/js/register.js",
+    "/js/users.js": "/js/users.js",
+    "/js/ManageAccount.js": "/js/ManageAccount.js",
+    "/js/login.js": "/js/login.js",
+    "/css/app.css": "/css/app.css"
+}
