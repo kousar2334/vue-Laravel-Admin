@@ -6,7 +6,7 @@
 - Clone your project
 - Go to the folder application using cd command on your cmd or terminal
 - Run <code>composer install</code> on your cmd or terminal
-- Copy .env.example file to .env on the root folder. You can type <code>copy .env.example .env</code> if using command prompt Windows or <code>cp .env.example .env</code> if using terminal, Ubuntu
+- Copy .env.example file to .env on the root folder. You can type <code>copy .env.example .env</code> if using command prompt Windows or <code>cp .env.example .env</code> if using Linux terminal
 - Run <code>php artisan key:generate</code>
 - Import database. You can find sql file in <code>database/database.sql</code> location
 - Run <code>npm install</code>
